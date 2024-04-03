@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode & HackerRank), completing the AWS Cloud Practitioner course and Film-making.**
 
-- 👯 I’m looking to collaborate on **innovative projects that improve people's lives.**
+- 🤝 I’m looking to collaborate on **innovative projects that improve people's lives.**
 
-- 🤝 I’m looking for help with **[finding a job.](https://www.linkedin.com/in/radwan-rahman/)**
+- 🙋 I’m looking for help with **[finding a job.](https://www.linkedin.com/in/radwan-rahman/)**
 
 - 👨‍💻 Most of my side-projects are available at **[Repositories](https://github.com/radrah?tab=repositories).**
 
