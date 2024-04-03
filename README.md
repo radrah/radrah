@@ -7,21 +7,21 @@
 
 <br>
 
-- 🔭 I’m currently working on [OpenRoad - website for a local business.](https://openroad.nz/)
+- 🔭 I’m currently working on **[OpenRoad - website for a local business.](https://openroad.nz/)**
 
 - 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode & HackerRank), completing the AWS Cloud Practitioner course and Film-making.**
 
 - 👯 I’m looking to collaborate on **innovative projects that improve people's lives.**
 
-- 🤝 I’m looking for help with [finding a job.](https://www.linkedin.com/in/radwan-rahman/)
+- 🤝 I’m looking for help with **[finding a job.](https://www.linkedin.com/in/radwan-rahman/)**
 
-- 👨‍💻 Most of my side-projects are available at [Repositories](https://github.com/radrah?tab=repositories).
+- 👨‍💻 Most of my side-projects are available at **[Repositories](https://github.com/radrah?tab=repositories).**
 
 - 💬 Ask me about **Web Development, Project Management, Product Development, Travelling, Fitness, Cooking, Formula 1 and Philosophy.**
 
 - 📫 How to reach me **raduwan.rahman@hotmail.com.**
 
-- 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1cQ55kJEpxAzVvr4NPbtn9nR08UxxxziV/view?usp=drive_link).
+- 📄 Know about my experiences - **[RESUME](https://drive.google.com/file/d/1cQ55kJEpxAzVvr4NPbtn9nR08UxxxziV/view?usp=drive_link).**
 
 - ⚡ Fun fact **I regularly do 200kg+ deadlifts.**
 
