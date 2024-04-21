@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **[OpenRoad - website for a local business.](https://openroad.nz/)**
+- 🔭 I’m currently working on **[Side Projects & Upskilling]([https://openroad.nz/](https://github.com/radrah?tab=repositories))**
 
 - 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode & HackerRank), completing the AWS Cloud Practitioner course and Film-making.**
 
