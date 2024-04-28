@@ -1,5 +1,5 @@
 <h1 align="center">Yo I'm Radwan 👋</h1>
-<h3 align="center">A novice frontend developer who loves creating seamless websites & apps!</h3>
+<h3 align="center">A Frontend Developer who loves creating seamless websites & apps!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radrah&label=Profile%20views&color=0e75b6&style=flat" alt="radrah" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **raduwan.rahman@hotmail.com.**
 
-- 📄 Know about my experiences - **[RESUME](https://drive.google.com/file/d/1cQ55kJEpxAzVvr4NPbtn9nR08UxxxziV/view?usp=drive_link).**
+- 📄 Know about my experiences - **[RESUME](https://drive.google.com/file/d/1SbJRjsFEbFhwhNT7kB2k8S5-xdasWIRr/view?usp=sharing).**
 
 - ⚡ Fun fact **I regularly do 200kg+ deadlifts.**
 
