@@ -39,6 +39,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radrah&show_icons=true&locale=en&theme=dark" alt="radrah" /></p>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=radrah&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a></p>
+<p align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=radrah&theme=dark&date_format" alt="GitHub Streak" /></p>
 
 <p align="center"><img align="center" src="https://stats.quine.sh/radrah/languages-over-time?theme=dark" width="600"/></p>
