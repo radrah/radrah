@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences - **[RESUME](https://drive.google.com/file/d/1SbJRjsFEbFhwhNT7kB2k8S5-xdasWIRr/view?usp=sharing).**
 
-- ⚡ Fun fact **I regularly do 200kg+ deadlifts.**
+- ⚡ Fun fact **I can deadlift 200kg+.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
