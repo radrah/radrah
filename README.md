@@ -1,5 +1,5 @@
 <h1 align="center">Yo I'm Radwan 👋</h1>
-<h3 align="center">A Frontend Developer who loves creating seamless websites & apps!</h3>
+<h3 align="center">A Fullstack Software Engineer who loves creating innovative technical solutions!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radrah&label=Profile%20views&color=0e75b6&style=flat" alt="radrah" /> </p>
 
@@ -7,9 +7,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **[Side Projects & Upskilling](https://github.com/radrah?tab=repositories)**
+- 🔭 I’m currently working at **[Axos Systems](https://www.axos.systems/)**
 
-- 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode & HackerRank), completing the AWS Cloud Practitioner course and Film-making.**
+- 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode), completing the AWS Cloud Practitioner course and Film-making.**
 
 - 🤝 I’m looking to collaborate on **innovative projects that improve people's lives.**
 
