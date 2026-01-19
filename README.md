@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working at **[Axos Systems](https://www.axos.systems/)**
 
-- 🌱 I’m currently learning **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode), completing the AWS Cloud Practitioner course and Film-making.**
+- 🌱 I’m currently learning Ruby On Rails **Advanced React/JS(Web- development), Data Structures & Algorithms(Leetcode), completing the AWS Cloud Practitioner course and Film-making.**
 
 - 🤝 I’m looking to collaborate on **innovative projects that improve people's lives.**
 
-- 🙋 I’m looking for help with **[finding a job.](https://www.linkedin.com/in/radwan-rahman/)**
+- 🙋 **[LinkedIn Profile](https://www.linkedin.com/in/radwan-rahman/)**
 
 - 👨‍💻 Most of my side-projects are available at **[Repositories](https://github.com/radrah?tab=repositories).**
 
-- 💬 Ask me about **Web Development, Project Management, Product Development, Travelling, Fitness, Cooking, Formula 1 and Philosophy.**
+- 💬 Ask me about **Web Development, Full Stack Development, Project Management, Product Development, Travelling, Fitness, Cooking, Formula 1 and Philosophy.**
 
 - 📫 How to reach me **raduwan.rahman@hotmail.com.**
 
